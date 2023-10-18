@@ -1,2 +1,3 @@
 # Projeto_redes_sociais
- projeto de redes sociais
+ Projeto de redes sociais(em construção)
+ https://carolhangai.github.io/Projeto_redes_sociais/
