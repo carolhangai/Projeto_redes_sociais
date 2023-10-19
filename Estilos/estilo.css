@@ -37,7 +37,7 @@ iframe#tela {/*centralizar a imagem dentro do iphone */
     position: relative;
     top: 80px;
     left: 23px;
-    width: 269px;
+    width: 267px;
     height: 471px;
 }
 section#redes-sociais{/*icone rede social pra direita */
@@ -56,5 +56,5 @@ section#redes-sociais img:hover {
     border: 2px solid white;
     transform: translate(-3px, -3px);/*salta o icone */
     box-shadow: 5px 5px 10px black;
-    transition: transform .4s;/* movimento icone */
+    transition: transform .4s;/* movimento */
 }
