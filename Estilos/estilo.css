@@ -40,3 +40,21 @@ iframe#tela {/*centralizar a imagem dentro do iphone */
     width: 269px;
     height: 471px;
 }
+section#redes-sociais{/*icone rede social pra direita */
+    text-align: right;
+}
+
+section#redes-sociais img{ /*icones redes sociais */
+    width: 50px;
+    margin: 10px;
+    border-radius: 50%; /*borda dos icones rede social  redondo */
+    box-shadow:2px 2px 5px black ;/*sombra */
+    box-sizing: border-box;
+}
+
+section#redes-sociais img:hover {
+    border: 2px solid white;
+    transform: translate(-3px, -3px);/*salta o icone */
+    box-shadow: 5px 5px 10px black;
+    transition: transform .4s;/* movimento icone */
+}
