@@ -33,3 +33,10 @@ section#telefone{/*configuração da section do "id:telefone"/container de dentr
     width: 311px;/*tamanho da imagem do iphone */
     background: url('../imagens/frame-iphone.png') no-repeat;/*.. volta pasta anterior */
 }
+iframe#tela {/*centralizar a imagem dentro do iphone */
+    position: relative;
+    top: 80px;
+    left: 23px;
+    width: 269px;
+    height: 471px;
+}
