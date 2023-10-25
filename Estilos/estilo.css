@@ -13,7 +13,7 @@ html, body{
 }
 
 body{/*configurações do body */
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
+    background: url(../imagens/fundo-colorido.jpg) no-repeat top center;
     background-size: cover;/*rolagem  */
     background-attachment: fixed;/*fixo*/
 }
