@@ -26,7 +26,7 @@ main{/*container de fora/principal */
 section#telefone{/*configuração da section do "id:telefone"/container de dentro */
     position: absolute;/*centralizar */
     top: 50%;/*centralizar */
-    left: 48%;/*centralizar */
+    left: 45%;/*centralizar */
     transform: translate(-50%, -50%);/*centralizar */
     
     height: 627px; /*tamanho da imagem do iphone */
