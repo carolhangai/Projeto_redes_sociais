@@ -41,12 +41,12 @@ iframe#tela {/*centralizar a imagem dentro do iphone */
     height: 471px;
 }
 section#redes-sociais{/*icone rede social pra direita */
-    text-align: right;
+    text-align: left;
 }
 
 section#redes-sociais img{ /*icones redes sociais */
     position: relative; /*posição dos icones */
-    top: center;/*posição dos icones */
+    top: 50%;/*posição dos icones */
     width: 40px;
     margin: 10px;
     border-radius: 50%; /*borda dos icones rede social  redondo */
