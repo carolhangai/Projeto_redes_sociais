@@ -45,6 +45,8 @@ section#redes-sociais{/*icone rede social pra direita */
 }
 
 section#redes-sociais img{ /*icones redes sociais */
+    position: relative;
+    top: 20px;
     width: 50px;
     margin: 10px;
     border-radius: 50%; /*borda dos icones rede social  redondo */
