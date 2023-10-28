@@ -26,7 +26,7 @@ main{/*container de fora/principal */
 section#telefone{/*configuração da section do "id:telefone"/container de dentro */
     position: absolute;/*centralizar */
     top: 50%;/*centralizar */
-    left: 45%;/*centralizar */
+    left: 50%;/*centralizar */
     transform: translate(-50%, -50%);/*centralizar */
     
     height: 627px; /*tamanho da imagem do iphone */
@@ -46,7 +46,7 @@ section#redes-sociais{/*icone rede social pra direita */
 
 section#redes-sociais img{ /*icones redes sociais */
     position: relative; /*posição dos icones */
-    top: 20px;/*posição dos icones */
+    top: center;/*posição dos icones */
     width: 50px;
     margin: 10px;
     border-radius: 50%; /*borda dos icones rede social  redondo */
